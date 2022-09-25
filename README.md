@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-Ox_46SgUBF)
 - Live Site URL: [Live site at Netlify](https://single-price-grid-d8d400.netlify.app/)
 
 ## My process
